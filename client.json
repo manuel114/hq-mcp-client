@@ -13,5 +13,6 @@
   "response_types": [
     "code"
   ],
-  "token_endpoint_auth_method": "none"
+  "token_endpoint_auth_method": "none",
+  "scope": "convai_read convai_write text_to_speech speech_history_read voice_generation image_video_generation flows user_read pronunciation_dictionaries_read pronunciation_dictionaries_write"
 }
