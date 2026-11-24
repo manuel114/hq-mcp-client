@@ -1,0 +1,16 @@
+{
+  "client_id": "https://manuel114.github.io/hq-mcp-client/hub.json",
+  "client_name": "HQ MCP hub",
+  "client_uri": "https://github.com/manuel114",
+  "redirect_uris": [
+    "http://localhost:8090/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
